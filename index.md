@@ -1,6 +1,7 @@
 ---
 layout: index
-title: VPhantom initial test page
+title: VPhantom
+tagline: Initial test page in GitHub Pages
 ---
 
 # VPhantom
