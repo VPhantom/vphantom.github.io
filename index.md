@@ -1,4 +1,5 @@
 ---
+layout: post
 title: VPhantom initial test page
 ---
 
